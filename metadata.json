@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Temporal Satellite Analysis AI",
+  "description": "An AI-powered tool to analyze and compare satellite images from two different time points. Upload 'before' and 'after' images to automatically detect and highlight new building constructions.",
+  "requestFramePermissions": []
+}
